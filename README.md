@@ -4,7 +4,7 @@
 
 Check the weather by entering a zip code and get a 5 day forecast. 
 
-![alt text](./assests/images/screencapture-127-0-0-1-5502-index-html-2022-10-30-14_41_49.png)
+![alt text](./assets/images/screenshot.png)
 
 ## Usage
 Deployed code at [Climate Oracle](https://savannahvel.github.io/climate_oracle/)
